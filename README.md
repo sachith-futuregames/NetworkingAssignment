@@ -1,5 +1,8 @@
 # Networking Assignment
 
+Aiming for G with Buffer 
+Build Available in Github Releases 
+
 2. **Health Packs:**  [Points: 1]
 	PowerupsPacks/HealthPack.cs
 4. **Limited Ammo:**  [Points: 1]
